@@ -1,0 +1,83 @@
+.panel .header .headerli{
+  display: inline-block;
+  vertical-align: middle;
+}
+.panel .header .headerli a{
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+.panel .header{
+  text-align: right;
+}
+
+.panel .header .pic img{
+ border-radius: 50%;
+}
+.container{
+  text-align: center;
+  margin-top: 272px;
+}
+
+.search-area{
+  text-align: center;
+  margin-top: 50px;
+  position: relative;
+  width:584px;
+  margin: auto;
+}
+.search-area .search_icon{
+  width: 20px;
+  position: absolute;
+  top: 15px;
+  left:10px;
+}
+.search-area .voice_logo{
+  width: 24px;
+  position: absolute;
+  top: 15px;
+  right: 10px;
+}
+.search-area .input{
+  width: 534px;
+  height: 46px;
+  border-radius: 50px;
+  border-color: lightgrey;
+  border-width: 1px;
+  padding-left:50px;
+}
+
+.buttons{
+  text-align: center;
+  margin-top: 20px;
+}
+.buttons .googlesearch{
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  width: 150px;
+  height: 36px;
+}
+.buttons .feelinglucky{
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  width: 150px;
+  height: 36px;
+}
+
+.footer{
+  background-color: lightgrey;
+  margin-top: 550px;
+}
+.footer .footerli{
+  display: inline-block;
+
+}
+.footer .footerli a{
+  text-decoration: none;
+  margin: 10px;
+  color: #70757a;
+}
